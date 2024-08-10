@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 .wrapper {
-    width:1000px;
+    width:1100px;
     // left side is 270
     // 1200-270 = 930
     // 30px free room
@@ -18,7 +18,13 @@
   }
 
   header {
-    width:200px;
+    width:300px;
+    float:right;
+    padding-bottom:50px;
+  }
+
+  footer {
+    width:300px;
     float:right;
     padding-bottom:50px;
   }
