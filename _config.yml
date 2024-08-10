@@ -5,6 +5,6 @@ plugins:
 title: My Title
 description: This is a description!
 
-show_downloads: true # ["true" or "false" (unquoted) to indicate whether to provide a download URL]
-google_analytics: # [Your Google Analytics tracking ID]
+# show_downloads: true # ["true" or "false" (unquoted) to indicate whether to provide a download URL]
+# google_analytics: # [Your Google Analytics tracking ID]
 
