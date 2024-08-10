@@ -14,4 +14,4 @@ layout: default
 
 ## Miscellaneous
 
-- [Guidelines for Utilizing Markdown] (./blog/notes_for_markdown.md)
+- [Guidelines for Utilizing Markdown](./blog/notes_for_markdown.md)
