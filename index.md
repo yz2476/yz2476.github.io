@@ -29,8 +29,4 @@ layout: default
 
 ## Miscellaneous
 
-<<<<<<< HEAD
-- [Guidelines for Utilizing Markdown](./blog/notes_for_markdown.md)
-=======
-- [Guidelines for Utilizing Markdown](./blogs/notes_for_markdown.md)
->>>>>>> 13c2fc3 (commit 3-papers)
+[Guidelines for Utilizing Markdown](./blogs/notes_for_markdown.md)
